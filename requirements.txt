@@ -1,0 +1,18 @@
+fastapi
+uvicorn
+google-generativeai
+python-dotenv
+pydantic
+python-multipart
+httpx
+xgboost
+joblib
+pandas
+scikit-learn
+numpy
+scipy
+lightgbm
+
+# # NEW – local HF model
+# torch
+# transformers
